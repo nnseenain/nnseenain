@@ -23,6 +23,11 @@ I use this GitHub profile primarily for development on [London TypeScript's repo
 
 But it's not just tech, in my spare time I like hosting walking tours around central London, playing some weekly badminton and am even currently writing a nine-narrative novel!
 
-Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/nnain/) or [Meetup profile](https://www.meetup.com/members/321945472/).
+<p><a href="https://gitarena.dev/u/nnseenain"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitarena.dev/api/badge/nnseenain/graph?color=blue&theme=dark">
+  <img src="https://gitarena.dev/api/badge/nnseenain/graph?color=blue&theme=light" width="540" alt="GitArena: contributions in the last 30 days">
+</picture></a></p>
+
+Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/nnain/) or [Meetup profile](https://www.meetup.com/members/321945472/) 🙂
 
 <br clear="right">

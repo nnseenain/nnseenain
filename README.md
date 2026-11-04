@@ -13,7 +13,7 @@ I wrote my first program aged 9 in BASIC and never stopped from there. From C++ 
 
 <img src="nnsee-talk-c2.svg" align="left" width="237" alt="Nnsée giving a talk at a lectern">
 
-I love London, I've been a founding engineer at two startups and I've talked at various tech events over the years. I also organise them with London TypeScript now having over 1,100 members.
+I love London, I’ve been a founding engineer at two startups and I’ve talked at various tech events over the years. I also organise them at London TypeScript which now has over 1,100 members.
 
 I use this GitHub profile primarily for development on [London TypeScript's repos](https://github.com/londontypescript). They're brand new and I'm working on them right now so go have a good look around today, contributors will be invited once the platforms are ready.
 
